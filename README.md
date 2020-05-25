@@ -36,5 +36,7 @@ The best way is probably using ssh-copy-id. Will try using this link.
 
 [Link to Digital Oceans article](https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/to-existing-droplet/#with-ssh-copy-id)
 
-
+````
+usermod -aG sudo 
+```
 
